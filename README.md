@@ -2,3 +2,4 @@
 My solutions for aoc2021.
 
 * Day 1: Sonar Sweep (Python, Haskell)
+* Day 2: Dive! (Python, Haskell)
