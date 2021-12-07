@@ -7,3 +7,4 @@ My solutions for aoc2021.
 * Day 4: Giant Squid
 * Day 5: Hydrothermal Venture
 * Day 6: Lanternfish
+* Day 7: The Treachery of Whales
