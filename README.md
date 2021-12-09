@@ -9,3 +9,4 @@ My solutions for aoc2021.
 * Day 6: Lanternfish
 * Day 7: The Treachery of Whales
 * Day 8: Seven Segment Search
+* Day 9: Smoke Basin
