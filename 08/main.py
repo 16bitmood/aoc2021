@@ -22,6 +22,7 @@ for xs, ys in data:
         try:
             constraint = make_num(m, xs)
             output += make_num(m, ys)
+            break
         except:
             continue
 print(output)
